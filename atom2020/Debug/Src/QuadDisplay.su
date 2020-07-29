@@ -1,0 +1,9 @@
+QuadDisplay.c:34:6:DisplayCodeData	8	static
+QuadDisplay.c:48:6:sendByte	32	static
+QuadDisplay.c:74:6:DisplayByteDigit	12	static
+QuadDisplay.c:110:6:DisplaySNumber	32	static
+QuadDisplay.c:90:6:DisplayNumber	8	static
+QuadDisplay.c:133:6:DisplayTime	32	static
+QuadDisplay.c:155:6:DisplayTemp	8	static
+QuadDisplay.c:172:6:DisplayDegree	16	static
+QuadDisplay.c:192:6:tx_display	8	static
