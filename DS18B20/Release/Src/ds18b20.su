@@ -1,0 +1,11 @@
+ds18b20.c:17:9:ds18b20_Reset	8	static
+ds18b20.c:44:9:ds18b20_ReadBit	16	static
+ds18b20.c:57:9:ds18b20_ReadByte	16	static
+ds18b20.c:66:6:ds18b20_WriteBit	8	static
+ds18b20.c:77:6:ds18b20_WriteByte	16	static
+ds18b20.c:87:9:ds18b20_SearhRom	32	static
+ds18b20.c:165:9:ds18b20_init	32	static
+ds18b20.c:217:6:ds18b20_MeasureTemperCmd	16	static
+ds18b20.c:239:6:ds18b20_ReadStratcpad	16	static
+ds18b20.c:265:9:ds18b20_GetSign	0	static
+ds18b20.c:272:7:ds18b20_Convert	16	static
