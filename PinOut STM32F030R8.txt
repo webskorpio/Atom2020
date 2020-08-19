@@ -15,3 +15,13 @@ S3				PB_0
 74HC595		DS		PA_9
 		SH_CP		PA_8
 		ST_CP		PB_5
+
+
+
+OLED	I2C1
+		SCL		PB_8
+		SDA		PB_9
+
+BMP280	I2C1	
+		SCL		PB_8
+		SDA		PB_9
